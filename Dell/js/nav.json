@@ -1,0 +1,72 @@
+{
+    "nav":[
+        {
+            "navchild":[  
+                {"class":"a1","a":"XPS"},
+                {"class":"a2","a":"灵越5000"},
+                {"class":"a3","a":"灵越7000"}]
+        },
+        {
+            "navchild":[
+                {"class":"a1","a":"游戏本G3"},
+                {"class":"a2","a":"游戏本G7"}]
+        },
+        {
+            "navchild":[
+                {"class":"a1","a":"笔记本"},
+                {"class":"a2","a":"台式机"},
+                {"class":"a3","a":"游戏配件"}]
+        },
+        {
+            "navchild":[
+                {"class":"a1","a":"显示器"},
+                {"class":"a2","a":"配件"},
+                {"class":"a3","a":"续保"}]
+        }
+    ],
+
+    "banner":[
+        {"img":"banner1.jpg","url":"https://eshop.dell-brand.com/2019promo/"},
+        {"img":"banner2.jpg","url":"https://eshop.dell-brand.com/search-G%E7%B3%BB%E5%88%97"},
+        {"img":"banner3.jpg","url":"https://eshop.dell-brand.com/xps-laptop"},
+        {"img":"banner4.jpg","url":"https://eshop.dell-brand.com/search-alw"},
+        {"img":"banner5.jpg","url":"https://eshop.dell-brand.com/alienware-17-area51m-laptop/pd"},
+        {"img":"banner6.jpg","url":"https://eshop.dell-brand.com/alienware-17-area51m-laptop/pd"}
+    ],
+
+    "All":[
+      
+        {
+          "title":[  
+                {"id":"Notebook","a":"笔记本"},
+                {"id":"Inspiron","a":"Inspiron 灵越 >"},
+                {"id":"xps","a":"XPS >"},
+                {"id":"Gbox","a":"G系列游戏本 >"},
+                {"id":"ALIENWARE","a":"ALIENWARE 外星人 >"}],
+          "product":[  
+                {"id":"Inspironul","a0":"14'' 灵越5498","a1":"14'' 灵越5493","a2":"15'' 灵越5593","a3":"15'' 灵越5598","a4":"14'' 灵越7490","a5":"13'' 灵越7391","a6":"16'' 灵越5498"},
+                {"id":"xpsul","a0":"13'' XPS 13 7390二合一","a1":"13'' XPS 13 9360","a2":"15'' XPS 15 7590"},
+                {"id":"Gboxul","a0":"G3 15'' 游戏本3590","a1":"G7 15'' 高端游戏本7590","a2":"G7 17'' 高端游戏本7790"},
+                {"id":"ALIENWAREul","a0":"Alienware m15","a1":"Alienware m17","a2":"15'' Alienware r2","a3":"Alienware Area-51m"}
+            ],
+         
+           "title2":[  
+            {"id":"Dellservice","a":"戴尔卓●悦服务"},
+            {"id":"Renewal","a":"服务续保 >"},
+            {"id":"introduce","a":"服务介绍 >"},
+            {"id":"extend","a":"延长服务 >"}],
+
+            "product2":[
+                {"id":"Renewal","a0":"续保在线商店"},
+                {"id":"introduce","a0":"服务内容介绍","a1":"软件下载","a2":"帮助中心","a3":"保修状态查询"},
+                {"id":"extend","a0":"出厂180天外","a1":"出厂180天内"}
+            ]
+        }
+    ]
+         
+}
+
+
+
+
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="GB2312"?>
+<PicProject>
+	<name>dell</name>
+	<prj_key>DE7DBCA7019C80E3341AC03A2ED515DB</prj_key>
+	<save_at_dir>G:\H5大前端\二阶段\Dell\img\</save_at_dir>
+	<pic_save_dir>G:\H5大前端\二阶段\Dell\img\已下载图片_dell\\</pic_save_dir>
+	<description></description>
+	<t_create>2019-11-11 09:27:13</t_create>
+	<max_srv_conns>4</max_srv_conns>
+	<slp_ms_per_page>0</slp_ms_per_page>
+	<timeout_sec>60</timeout_sec>
+	<to_release_sec>120</to_release_sec>
+	<con_list_size>32</con_list_size>
+	<max_retry_times>3</max_retry_times>
+	<check_conn_ses>30</check_conn_ses>
+	<vec_url_root>https://eshop.dell-brand.com/</vec_url_root>
+	<b_save_by_title>true</b_save_by_title>
+	<max_depth>100</max_depth>
+	<pic_include>PIC_INC_JPG | PIC_INC_PNG | PIC_INC_GIF | PIC_INC_BMP | PIC_INC_OTHER</pic_include>
+	<size_from>0</size_from>
+	<size_to>2147483647</size_to>
+	<b_dl_urls>false</b_dl_urls>
+	<b_media_urls>false</b_media_urls>
+	<b_allow_https>true</b_allow_https>
+	<type>PIC_PRJ_NORMAL</type>
+	<range_mode>RANGE_ONLY_INCLUDE</range_mode>
+	<inc_rule>
+		<vec_dep_url>
+			<rule_id>0</rule_id>
+			<dep_from>0</dep_from>
+			<dep_to>100</dep_to>
+			<url>https://eshop.dell-brand.com*</url>
+			<b_parent>false</b_parent>
+		</vec_dep_url>
+		<vec_dep_url>
+			<rule_id>1</rule_id>
+			<dep_from>0</dep_from>
+			<dep_to>100</dep_to>
+			<url>https://eshop.dell-brand.com*</url>
+			<b_parent>true</b_parent>
+		</vec_dep_url>
+	</inc_rule>
+	<exc_rule>
+	</exc_rule>
+</PicProject>

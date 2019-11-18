@@ -1,0 +1,67 @@
+{
+    
+       "explosive":[  
+                {"img":"content_1_pr1.jpg","p1":"十代i5 MX230独显 512GB纯固态","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5493-R1625S","p3":"i5/Windows 10/8G/512G SSD/MX230 2G显卡","price":"￥4999","imgbuy":"buy.jpg"},
+                {"img":"content_1_pr2.jpg","p1":"IPS窄边框集显512GB SSD","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5498-R1605S","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥5699","imgbuy":"buy.jpg"},
+                {"img":"content_1_pr3.jpg","p1":"9代i7 铝合金机身 新GTX1650","p2":"灵越7000(7591) 15.6英寸铝合金本","small":"Ins 15-7591-R1745S","p3":"i7/Windows 10/8G/512G SSD/4G显卡","price":"￥8999","imgbuy":"buy.jpg"},
+                {"img":"content_1_pr4.png","p1":"四边窄高色域 十代i7","p2":"全新XPS 13 13.3英寸微边框轻薄本","small":"Ins 14-7490-R1725S","p3":"i7/Windows 10/16G/512G SSD/2G显卡","price":"￥9799","imgbuy":"buy.jpg"}
+            ],
+        
+       "new":[  
+        {"img":"content_2_pr1.jpg","p1":"十代i5 MX230独显 512GB纯固态","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5493-R1625S","p3":"i5/Windows 10/8G/512G SSD/MX230 2G显卡","price":"￥4999","imgbuy":"buy.jpg"},
+        {"img":"content_2_pr2.jpg","p1":"十代i7 MX250独显 1TB纯固态","p2":"灵越5000系列(5598) 15.6英寸笔记本","small":"Ins 15-5598-R1825S","p3":"i7/Windows 10/8G/1T SSD/2G显卡","price":"￥7999","imgbuy":"buy.jpg"},
+        {"img":"content_2_pr3.png","p1":"十代i7 MX250独显 512GB纯固态","p2":"灵越7000系列(7391) 13.3英寸合金本","small":"Ins 13-7391-R1725S","p3":"i7/Windows 10/8G/512G SSD/2G显卡","price":"￥8999","imgbuy":"buy.jpg"},
+        {"img":"content_2_pr4.jpg","p1":"十代i5 512SSD 白色硅纤维","p2":"全新XPS 13 13.3英寸微边框轻薄本","small":"XPS 13-7390-R1505W","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥12999","imgbuy":"buy.jpg"}
+           ],
+        
+        "frivolous":[  
+        {"img":"content_3_pr1.jpg","p1":"十代i5 MX230独显 512GB纯固态","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5493-R1625S","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥4999","imgbuy":"buy.jpg"},
+        {"img":"content_3_pr1.jpg","p1":"十代i7 MX250独显 1TB纯固态","p2":"灵越5000系列(5598) 15.6英寸笔记本","small":"Ins 15-5598-R1825S","p3":"i7/Windows 10/8G/1T SSD/2G显卡","price":"￥7999","imgbuy":"buy.jpg"},
+        {"img":"content_3_pr1.jpg","p1":"十代i7 MX250独显 512GB纯固态","p2":"灵越7000系列(7391) 13.3英寸合金本","small":"Ins 13-7391-R1725S","p3":"i7/Windows 10/8G/512G SSD/2G显卡","price":"￥8999","imgbuy":"buy.jpg"},
+        {"img":"content_3_pr1.jpg","p1":"十代i5 512SSD 白色硅纤维","p2":"全新XPS 13 13.3英寸微边框轻薄本","small":"XPS 13-7390-R1505W","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥12999","imgbuy":"buy.jpg"}
+            ],
+
+        "game":[  
+            {"img":"content_4_pr1.jpg","p1":"十代i5 MX230独显 512GB纯固态","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5493-R1625S","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥4999","imgbuy":"buy.jpg"},
+            {"img":"content_4_pr1.jpg","p1":"十代i7 MX250独显 1TB纯固态","p2":"灵越5000系列(5598) 15.6英寸笔记本","small":"Ins 15-5598-R1825S","p3":"i7/Windows 10/8G/1T SSD/2G显卡","price":"￥7999","imgbuy":"buy.jpg"},
+            {"img":"content_4_pr1.jpg","p1":"十代i7 MX250独显 512GB纯固态","p2":"灵越7000系列(7391) 13.3英寸合金本","small":"Ins 13-7391-R1725S","p3":"i7/Windows 10/8G/512G SSD/2G显卡","price":"￥8999","imgbuy":"buy.jpg"},
+            {"img":"content_4_pr1.jpg","p1":"十代i5 512SSD 白色硅纤维","p2":"全新XPS 13 13.3英寸微边框轻薄本","small":"XPS 13-7390-R1505W","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥12999","imgbuy":"buy.jpg"},
+            {"img":"content_4_pr1.jpg","p1":"十代i5 MX230独显 512GB纯固态","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5493-R1625S","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥4999","imgbuy":"buy.jpg"},
+            {"img":"content_4_pr1.jpg","p1":"十代i7 MX250独显 1TB纯固态","p2":"灵越5000系列(5598) 15.6英寸笔记本","small":"Ins 15-5598-R1825S","p3":"i7/Windows 10/8G/1T SSD/2G显卡","price":"￥7999","imgbuy":"buy.jpg"},
+            {"img":"content_4_pr1.jpg","p1":"十代i7 MX250独显 512GB纯固态","p2":"灵越7000系列(7391) 13.3英寸合金本","small":"Ins 13-7391-R1725S","p3":"i7/Windows 10/8G/512G SSD/2G显卡","price":"￥8999","imgbuy":"buy.jpg"},
+            {"img":"content_4_pr1.jpg","p1":"十代i5 512SSD 白色硅纤维","p2":"全新XPS 13 13.3英寸微边框轻薄本","small":"XPS 13-7390-R1505W","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥12999","imgbuy":"buy.jpg"}
+                ],
+
+        "exclusive":[  
+            {"img":"content_5_pr1.jpg","p1":"十代i5 MX230独显 512GB纯固态","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5493-R1625S","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥4999","imgbuy":"buy.jpg"},
+            {"img":"content_5_pr1.jpg","p1":"十代i7 MX250独显 1TB纯固态","p2":"灵越5000系列(5598) 15.6英寸笔记本","small":"Ins 15-5598-R1825S","p3":"i7/Windows 10/8G/1T SSD/2G显卡","price":"￥7999","imgbuy":"buy.jpg"},
+            {"img":"content_5_pr1.jpg","p1":"十代i7 MX250独显 512GB纯固态","p2":"灵越7000系列(7391) 13.3英寸合金本","small":"Ins 13-7391-R1725S","p3":"i7/Windows 10/8G/512G SSD/2G显卡","price":"￥8999","imgbuy":"buy.jpg"},
+            {"img":"content_5_pr1.jpg","p1":"十代i5 512SSD 白色硅纤维","p2":"全新XPS 13 13.3英寸微边框轻薄本","small":"XPS 13-7390-R1505W","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥12999","imgbuy":"buy.jpg"}
+                ],
+
+        "alien":[  
+            {"img":"content_6_pr1.jpg","p1":"十代i5 MX230独显 512GB纯固态","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5493-R1625S","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥4999","imgbuy":"buy.jpg"},
+            {"img":"content_6_pr1.jpg","p1":"十代i7 MX250独显 1TB纯固态","p2":"灵越5000系列(5598) 15.6英寸笔记本","small":"Ins 15-5598-R1825S","p3":"i7/Windows 10/8G/1T SSD/2G显卡","price":"￥7999","imgbuy":"buy.jpg"},
+            {"img":"content_6_pr1.jpg","p1":"十代i7 MX250独显 512GB纯固态","p2":"灵越7000系列(7391) 13.3英寸合金本","small":"Ins 13-7391-R1725S","p3":"i7/Windows 10/8G/512G SSD/2G显卡","price":"￥8999","imgbuy":"buy.jpg"},
+            {"img":"content_6_pr1.jpg","p1":"十代i5 512SSD 白色硅纤维","p2":"全新XPS 13 13.3英寸微边框轻薄本","small":"XPS 13-7390-R1505W","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥12999","imgbuy":"buy.jpg"}
+                ],
+
+        "monitor":[  
+            {"img":"content_7_pr1.jpg","p1":"十代i5 MX230独显 512GB纯固态","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5493-R1625S","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥4999","imgbuy":"buy.jpg"},
+            {"img":"content_7_pr1.jpg","p1":"十代i7 MX250独显 1TB纯固态","p2":"灵越5000系列(5598) 15.6英寸笔记本","small":"Ins 15-5598-R1825S","p3":"i7/Windows 10/8G/1T SSD/2G显卡","price":"￥7999","imgbuy":"buy.jpg"},
+            {"img":"content_7_pr1.jpg","p1":"十代i7 MX250独显 512GB纯固态","p2":"灵越7000系列(7391) 13.3英寸合金本","small":"Ins 13-7391-R1725S","p3":"i7/Windows 10/8G/512G SSD/2G显卡","price":"￥8999","imgbuy":"buy.jpg"},
+            {"img":"content_7_pr1.jpg","p1":"十代i5 512SSD 白色硅纤维","p2":"全新XPS 13 13.3英寸微边框轻薄本","small":"XPS 13-7390-R1505W","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥12999","imgbuy":"buy.jpg"}
+                ],
+
+        "parts":[  
+            {"img":"content_8_pr1.png","p1":"十代i5 MX230独显 512GB纯固态","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5493-R1625S","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥4999","imgbuy":"buy.jpg"},
+            {"img":"content_8_pr1.png","p1":"十代i7 MX250独显 1TB纯固态","p2":"灵越5000系列(5598) 15.6英寸笔记本","small":"Ins 15-5598-R1825S","p3":"i7/Windows 10/8G/1T SSD/2G显卡","price":"￥7999","imgbuy":"buy.jpg"},
+            {"img":"content_8_pr1.png","p1":"十代i7 MX250独显 512GB纯固态","p2":"灵越7000系列(7391) 13.3英寸合金本","small":"Ins 13-7391-R1725S","p3":"i7/Windows 10/8G/512G SSD/2G显卡","price":"￥8999","imgbuy":"buy.jpg"},
+            {"img":"content_8_pr1.png","p1":"十代i5 512SSD 白色硅纤维","p2":"全新XPS 13 13.3英寸微边框轻薄本","small":"XPS 13-7390-R1505W","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥12999","imgbuy":"buy.jpg"},
+            {"img":"content_8_pr1.png","p1":"十代i5 MX230独显 512GB纯固态","p2":"灵越5000系列(5493) 14英寸轻薄本","small":"Ins 14-5493-R1625S","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥4999","imgbuy":"buy.jpg"},
+            {"img":"content_8_pr1.png","p1":"十代i7 MX250独显 1TB纯固态","p2":"灵越5000系列(5598) 15.6英寸笔记本","small":"Ins 15-5598-R1825S","p3":"i7/Windows 10/8G/1T SSD/2G显卡","price":"￥7999","imgbuy":"buy.jpg"},
+            {"img":"content_8_pr1.png","p1":"十代i7 MX250独显 512GB纯固态","p2":"灵越7000系列(7391) 13.3英寸合金本","small":"Ins 13-7391-R1725S","p3":"i7/Windows 10/8G/512G SSD/2G显卡","price":"￥8999","imgbuy":"buy.jpg"},
+            {"img":"content_8_pr1.png","p1":"十代i5 512SSD 白色硅纤维","p2":"全新XPS 13 13.3英寸微边框轻薄本","small":"XPS 13-7390-R1505W","p3":"i5/Windows 10/8G/512G SSD/UHD显卡","price":"￥12999","imgbuy":"buy.jpg"}
+                ]
+                 
+}
