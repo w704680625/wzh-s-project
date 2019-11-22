@@ -428,123 +428,230 @@
     background-size: 80%;
     background-position: 50%;
 }
-#logindiv{
+#shoppingdiv{
     width: 100%;
-    height: 660px;
-    background: url(../images/Signbackground.jpg) no-repeat;
-    background-position-x: -200px;
-    position: relative;
+    height: 600px;
 }
-#login-1{
-    width: 420px;
-    height: 470px;
-    background-color: white;
-    position: absolute;
-    right: 220px;
-    top: 80px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
+#shopping{
+    width: 960px;
+    height: 100%;
+    margin-left: 280px;
 }
-#login-1-1{
+#shopping-1{
     width: 100%;
+    height: 520px;
+}
+#shopping-list{
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+#shopping-list-top{
+    width: 100%;
+    height: 50px;
+    background-color: #ECECEC;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 50px;
+}
+#shopping-list-top ul li{
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    padding:0 45px;
+}
+#shopping-list-content{
+    height: 130px;
+    width: 100%;
+}
+#shopping-list-content ul li{
+    float: left;
+
+}
+#listimg{
+    width: 100px;
+    height: 75px;
+    margin: 20px 0 0 15px;
+}
+#listimg img{
+    width: 80px;
     height: 80px;
-    background-color: #fbfbfb;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    border: 1px solid #dadada;
+}
+#lista{
+    width: 170px;
+    height: 90px;
+    font-size: 12px;
+    margin: 20px 0 0 10px;
+}
+#lista a{color: #0085c3;}
+#listxh{
+    width: 170px;
+    height: 100px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 100px;
+}
+#listnum{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+#listnum .listsub{
+    display: block;
+    border: 1px solid #ccc;
+    float: left;
+    height: 20px;
+    width: 20px;
+    font-size: 16px;
+    margin: 40px 0 0 20px;
+}
+#listnum input{
+    width: 24px;
+    text-align: center;
+    border: 1px solid #ccc;
+    float: left;
+    border-right: none;
+    border-left: 0;
+    height: 20px;
+    margin: 40px 0 0 0;
+}
+#listnum .listadd{
+    display: block;
+    border: 1px solid #ccc;
+    float: left;
+    height: 20px;
+    width: 20px;
+    font-size: 16px;
+    margin: 40px 0 0 0;
+}
+#UnitPrice{
+    width: 155px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+#Totalprice{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+#listdel{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    margin-left: 5px;
+}
+#listdel a{
+    color: #0085c3;
+    font-size: 12px;
+    border-bottom: 1px solid #0085c3;
+}
+#shopping-list-bottom{
+    height: 50px;
+    width: 100%;
+    background-color: #ECECEC;
     position: relative;
 }
-#login-1-1 span{
+#shopping-list-bottom .span1{
     position: absolute;
-    top: 30px;
-    left: 20px;
+    right:100px;
+    bottom: 15px;
     font-size: 18px;
 }
-#login-1-1 img{
+#shopping-list-bottom .span2{
     position: absolute;
-    top: 0;
-    right: 0;
-    border-top-right-radius: 10px;
+    right:35px;
+    bottom: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #ce1126;
 }
-#login-1-2{
+#shopping-1-2{
     width: 100%;
-    height: 280px;
+    height: 80px;
+    position: relative;
+    border-bottom: 1px solid #dadada;
+}
+#shopping-1-2 a{
+    width: 80px;
+    height: 35px;
+    background: #0084C2;
+    color: #fff;
+     text-align: center;
+     line-height: 35px;
+    font-size: 12px;
+    position: absolute;
+    top: 10px;
+}
+#shopping-1-3{
+    width: 100%;
+    height: 150px;
+    border-bottom: 1px solid #dadada;
     position: relative;
 }
-#btn-txt{
-    width: 355px;
-    height: 35px;
-    text-indent: 10px;
-    margin: 20px 0 0 30px;
+#shopping-1-3 .shopping-1-3-span1{
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
 }
-#btn-psd{
-    width: 355px;
-    height: 35px;
-    text-indent: 10px;
-    margin: 20px 0 0 30px;
+#shopping-1-3 .shopping-1-3-span2{
+    position: absolute;
+    top: 40px;
 }
-#btn-submit{
-    width: 360px;
+#shopping-1-3 input{
+    position: absolute;
+    top: 80px;
+    height: 25px;
+    outline: none;
+}
+#shopping-1-3 a{
+    position: absolute;
+    top: 80px;
+    left: 170px;
+    height: 28px;
+    background: #0084C2;
+    padding: 0 10px;
+    line-height: 24px;
+    display: inline-table;
+    width: 32px;
+    color: #fff;
+}
+#shopping-2 .continue{
+    display: block;
     height: 40px;
-    color: white;
-    border: none;
-    background-color: #007cb8;
-    margin: 20px 0 0 30px;
+    line-height: 40px;
+    width: 120px;
+    float: left;
+    text-align: center;
+    background: #56a025;
+    color: #fff;
+    font-size: 14px;
+    position: absolute;
+    bottom: 40px;
+    right: 150px;
 }
-#login-1-2 form p{
-    font-size: 12px;
-    margin: 10px 0  0 270px;
+#shopping-2 .settlement{
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    width: 120px;
+    float: left;
+    text-align: center;
+    background: #0085c3;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 10px;
+    position: absolute;
+    bottom: 40px;
+    right: 0px;
 }
-#login-1-2 form p a{ color: #007cb8;}
-#login-1-2 form span{
-    display:block;
-    width: 360px;
-    font-size: 12px;
-    margin: 10px 0 0 30px;
-}
-#login-1-3{
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
-}
-#login-qt{
-    width: 350px ;
-    height: 110px;
-    margin-left: 35px;
-    border-top: 1px solid #EEEEEE;
-    font-size: 12px;
+#shopping-2{
+    width: 100%;
+    height: 80px;
     position: relative;
-}
-#login-qt .span1{
-    position: absolute;
-    left: 140px;
-    top: -10px;
-    color: gray;
-}
-#login-qt img{
-    width: 200px;
-    height: 40px;
-    position: absolute;
-    left: 80px;
-    top: 20px;
-}
-#login-qt .a1{
-    position: absolute;
-    left: 80px;
-    top: 70px;
-     color: gray;
-}
-#login-qt .a2{
-    position: absolute;
-    left: 150px;
-    top: 70px;
-     color: gray;
-}
-#login-qt .a3{
-    position: absolute;
-    left: 220px;
-    top: 70px;
-     color: gray;
 }
 #footer{
     width: 100%;

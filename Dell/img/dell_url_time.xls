@@ -2269,3 +2269,9 @@
 5002	https://aeu.alicdn.com/waf/3a109cfdbdee51ccd7cc777ef957faca.js?t=1573464853	2.71	ok
 5042	https://aeu.alicdn.com/waf/3a109cfdbdee51ccd7cc777ef957faca.js?t=1573464856	0.87	ok
 5058	https://aeu.alicdn.com/waf/3a109cfdbdee51ccd7cc777ef957faca.js?t=1573464858	1.29	ok
+9	https://eshop.dell-brand.com/xps-13-9360-laptop/pd?oc=XPS%2B13-9360-R3609S&model_id=xps-13-9360-laptop	0.78	no connection
+11	https://eshop.dell-brand.com/xps-13-9360-laptop/pd?oc=XPS%2B13-9360-R3609S&model_id=xps-13-9360-laptop	1.61	ok
+27	https://graph.qq.com/oauth2.0/authorize?response_type=code&client_id=101311783&redirect_uri=https%3A%2F%2Feshop.dell-brand.com%2Findex.php%3Fr%3Dsite%2Fauth&state=8d06dea99edc8ed93f9905907f370489&scope=	1.17	ok
+29	https://aeu.alicdn.com/waf/3a109cfdbdee51ccd7cc777ef957faca.js?t=1574076660	1.51	ok
+31	https://open.weixin.qq.com/connect/qrconnect?appid=wxd66a6611673d6d67&redirect_uri=http%3A%2F%2Feshop.dell-brand.com%2Findex.php%3Fr%3Dsite%2Fauth%26wx%3D1&response_type=code&scope=snsapi_login&state=b00dd29b84140df3fb0210dd0a3d5b65#wechat_redirect	3.95	ok
+33	https://openauth.alipay.com/oauth2/publicAppAuthorize.htm?app_id=2019042664362026&scope=auth_user&redirect_uri=https%3A%2F%2Feshop.dell-brand.com%2Findex.php%3Fr%3Dsite%2Fauth&state=307d8f765e5523b73de53a1ce0260e4d_pc_alipay	4.54	ok

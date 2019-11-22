@@ -6,7 +6,8 @@ require.config({
         "parabola": "parabola",
         "nav": "nav",
         "product":"product",
-        
+        "productlist":"productlist",
+        "details":"details",
     },
     shim: {
         //设置依赖关系  先引入jquery.js  然后在隐去jquery-cookie
@@ -29,4 +30,17 @@ require(['nav'],function(nav){
 require(['product'],function(product){
 
    product.productadd();
+
 })
+require(['productlist'],function(productlist){
+
+    productlist.productlistadd();
+    productlist.listBorder();
+    
+ })
+ require(['details'],function(details){
+
+    details.shoplistadd();
+    details.shoplistdel();
+    details.shopNum();
+ })

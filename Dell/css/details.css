@@ -428,123 +428,385 @@
     background-size: 80%;
     background-position: 50%;
 }
-#logindiv{
+#Commoditydetails{
     width: 100%;
-    height: 660px;
-    background: url(../images/Signbackground.jpg) no-repeat;
-    background-position-x: -200px;
+    height: 10000px;
+}
+#Commoditydetails-1{
+    width: 100%;
+    height: 30px;
+    background-color: #F5F5F5;
+}
+#Commoditydetails-1 span{
+    margin-left: 280px;
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+    line-height: 30px;
+}
+#Commoditydetails-1 a{
+    color: #007DB8;
+}
+#Commoditydetails-2{
+    width:970px;
+    height: 590px;
+    margin:25px 0 0  280px;
+}
+#Commoditydetails-2-1{
+    width: 370px;
+    height: 500px;
+    float: left;
+}
+#Commoditydetails-2-1-1{
+    width: 100%;
+    height:370px;
+    border: 1px solid #CDCDCD;
     position: relative;
 }
-#login-1{
-    width: 420px;
-    height: 470px;
-    background-color: white;
-    position: absolute;
-    right: 220px;
-    top: 80px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
+#Commoditydetails-2-1-1 img{
+    width: 370px;
+    height: 370px;
 }
-#login-1-1{
+#Commoditydetails-2-1-2{
     width: 100%;
-    height: 80px;
-    background-color: #fbfbfb;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    height: 100px;
+}
+#Commoditydetails-2-1-2 ul{
+    margin: 20px 0 0 15px;
+}
+#Commoditydetails-2-1-2 ul li{
+    border: 1px solid #CDCDCD;
+    display: block;
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin-right: 8px;
+}
+#Commoditydetails-2-1-2 ul .active{
+    border: 1px solid #0085c3;
+}
+#Commoditydetails-2-1-2 ul li img{
+    width: 60px;
+    height: 60px;
+}
+#Commoditydetails-2-2{
+    width: 360px;
+    height: 100%;
+    float: left;
+    padding: 0 20px; 
     position: relative;
 }
-#login-1-1 span{
-    position: absolute;
-    top: 30px;
-    left: 20px;
-    font-size: 18px;
-}
-#login-1-1 img{
+#mark{
+    display: none;
+    width: 185px;
+    height: 185px;
     position: absolute;
     top: 0;
-    right: 0;
-    border-top-right-radius: 10px;
+    left: 0;
+    opacity: 0.5;
+    background-color: skyblue;
 }
-#login-1-2{
+#Magnifier{
+    width: 370px;
+    height:370px;
+    border: 1px solid #CDCDCD;
+    z-index: 100;
+    float: left;
+    display: none;
+    position: absolute;
+    top: 0;
+    overflow: hidden;
+}
+#Magnifier img{
+    width: 740px;
+    height:740px;
+    position: absolute;
+}
+#Commoditydetails-2-2 h1{
+    color: #444444;
+    font-size: 18px;
+    font-weight: 600;
+} 
+#Commoditydetails-2-2 h2{
+    color: #888;
+    font-size: 12px;
+    padding: 5px 0;
+}   
+#Commoditydetails-2-2 h3{
+    color: #ff7700;
+    margin-bottom: 10px;
+}
+#Commoditydetails-2-2-1{
     width: 100%;
-    height: 280px;
+    height: 50px;
+    background-color: #EEEEEE;
     position: relative;
 }
-#btn-txt{
-    width: 355px;
-    height: 35px;
-    text-indent: 10px;
-    margin: 20px 0 0 30px;
+#Commoditydetails-2-2-1 span{
+    line-height: 50px;
 }
-#btn-psd{
-    width: 355px;
-    height: 35px;
-    text-indent: 10px;
-    margin: 20px 0 0 30px;
-}
-#btn-submit{
-    width: 360px;
+#Commoditydetails-2-2-2{
+    width: 100%;
     height: 40px;
-    color: white;
-    border: none;
-    background-color: #007cb8;
-    margin: 20px 0 0 30px;
+    margin: 15px 0;
 }
-#login-1-2 form p{
+#Commoditydetails-2-2-2 span{
+    width: 40px;
+    height: 40px;
     font-size: 12px;
-    margin: 10px 0  0 270px;
+    color: #888;
+    display: block;
+    float: left;
+    margin-top: 2px;
 }
-#login-1-2 form p a{ color: #007cb8;}
-#login-1-2 form span{
-    display:block;
-    width: 360px;
+#Commoditydetails-2-2-2 a{
+    display: block;
+    float: left;
+    width: 150px;
+    height: 32px;
+    border: 2px solid #ce1126;
+    padding-left: 10px;
     font-size: 12px;
-    margin: 10px 0 0 30px;
-}
-#login-1-3{
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
-}
-#login-qt{
-    width: 350px ;
-    height: 110px;
-    margin-left: 35px;
-    border-top: 1px solid #EEEEEE;
-    font-size: 12px;
+    line-height: 32px;
     position: relative;
 }
-#login-qt .span1{
+#Commoditydetails-2-2-2 a b{
+    display: block;
+    background: url(../images/sel.png) no-repeat 0 0;
+    width: 12px;
+    height: 12px;
     position: absolute;
-    left: 140px;
-    top: -10px;
-    color: gray;
+    bottom: 0;
+    right: 0;
 }
-#login-qt img{
-    width: 200px;
+#Commoditydetails-2-2-3{
+    width: 100%;
+    height: 80px;
+}
+#Commoditydetails-2-2-3 span{
+    font-size: 12px;
+    color: #888;
+    display: block;
+    float: left;
+    margin:10px 10px 0 0 ;
+}
+#Commoditydetails-2-2-3 a{
+    display: block;
+    float: left;
+    width: 130px;
+    height: 32px;
+    border: 1px solid #888;
+    /* border: 2px solid #ce1126; */
+    padding-left: 10px;
+    font-size: 12px;
+    line-height: 32px;
+    position: relative;
+    text-align: center;
+    margin: 2px 6px;
+}
+#Commoditydetails-2-2-3 a b{
+    display: block;
+    background: url(../images/sel.png) no-repeat 0 0;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+#Commoditydetails-2-2-4{
+    width: 100%;
+    height: 120px;
+    margin: 10px 0;
+}
+#Commoditydetails-2-2-4 span{
+    width: 40px;
+    height: 16px;
+    color: #888;
+    display: block;
+    float: left;
+    font-size: 12px;
+}
+#Commoditydetails-2-2-4 img{
+    width: 320px;
+    height: 120px;
+    float: left;
+}
+#Commoditydetails-2-2-5{
+    width: 100%;
+    height: 36px;
+    background-color: white;
+    position: relative;
+    font-size: 12px;
+    color: #888;
+    line-height: 36px;
+}
+#Commoditydetails-2-2-5 span{
+    font-size: 12px;
+    color: #888;
+    margin-top: 0;
+    float: left;
+    width: 60px;
+    display: block;
+}
+#Commoditydetails-2-2-5 .sub{
+    display: block;
+    position: absolute;
+    background: #EEE;
+    width: 40px;
+    height: 32px;
+    left: 70px;
+    top: 0;
+    line-height: 32px;
+    text-align: center;
+    float: left;
+    color: #444;
+}
+#Commoditydetails-2-2-5 .add{
+    display: block;
+    position: absolute;
+    background: #EEE;
+    width: 40px;
+    height: 32px;
+    right: 0;
+    left: 152px;
+    line-height: 32px;
+    text-align: center;
+    float: left;
+    color: #444;
+}
+#Commoditydetails-2-2-5 input{
+    border: 1px solid #A6A5AC;
+    font-size: 16px;
+    width: 40px;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    margin-left: 50px;
+    text-align: center;
+    float: left;
+}
+#Commoditydetails-2-2-5 small{
+    position: absolute;
+    right: 30px;
+}
+#Commoditydetails-2-2-6{
+    width: 100%;
     height: 40px;
-    position: absolute;
-    left: 80px;
-    top: 20px;
+    margin-top: 10px;
 }
-#login-qt .a1{
-    position: absolute;
-    left: 80px;
-    top: 70px;
-     color: gray;
+#Commoditydetails-2-2-6 a{
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    width: 170px;
+    float: left;
+    text-align: center;
+    background: #56a025;
+    color: #fff;
+    font-size: 16px;
 }
-#login-qt .a2{
-    position: absolute;
-    left: 150px;
-    top: 70px;
-     color: gray;
+#Commoditydetails-2-2-6 .addshop{
+    float: right;
+    background: #0085c3;
+    color: #fff;
 }
-#login-qt .a3{
-    position: absolute;
-    left: 220px;
-    top: 70px;
-     color: gray;
+#Commoditydetails-2-3{
+    width: 198px;
+    height: 100%;
+    float: left;
+    border: 1px solid #EEEEEE   ;
+}
+#Commoditydetails-2-3-1{
+    width: 100%;
+    height: 35px;
+    background-color: #EEEEEE;
+    color: #0085c3;
+    text-align: center;
+    font-size: 12px;
+    line-height: 35px;
+}
+#Commoditydetails-2-3-2{
+    margin: 10px;
+}
+#Commoditydetails-2-3-2 p{
+    color: #D11128;
+    font-size: 12px;
+    padding-left: 65px;
+}
+#Commoditydetails-2-3-2 span{
+    color: #888;
+    font-size: 12px;
+}
+#Commoditydetails-2-3-2 small{
+    font-size: 10px;
+    color: #888;
+    padding-left: 40px;
+}
+#Commoditydetails-2-3-2 img{
+    width: 138px;
+    height: 96px;
+    padding-left: 20px;
+}
+#Commoditydetails-2-3-3 img{
+    width: 138px;
+    height: 96px;
+    padding-left: 20px;
+}
+#Commoditydetails-2-3-3{
+    margin: 10px;
+}
+#Commoditydetails-2-3-3 p{
+    color: #D11128;
+    font-size: 12px;
+    padding-left: 65px;
+}
+#Commoditydetails-2-3-3 span{
+    color: #888;
+    font-size: 12px;
+}
+#Commoditydetails-2-3-3 small{
+    font-size: 10px;
+    color: #888;
+    padding-left: 40px;
+}
+#Commoditydetails-2-3-4 img{
+    width: 138px;
+    height: 96px;
+    padding-left: 20px; 
+}
+#Commoditydetails-2-3-4{
+    margin: 10px;
+}
+#Commoditydetails-2-3-4 p{
+    color: #D11128;
+    font-size: 12px;
+    padding-left: 65px;
+}
+#Commoditydetails-2-3-4 span{
+    color: #888;
+    font-size: 12px;
+}
+#Commoditydetails-2-3-4 small{
+    font-size: 10px;
+    color: #888;
+    padding-left: 40px;
+}
+#Commoditydetails-3{
+    width: 990px;
+    height: 100%;
+    margin-left: 270px;
+}
+#Commoditydetails-3-1{
+    float: left;
+    width: 213px;
+    height: 853px;
+}
+#Commoditydetails-3-2{
+    float: left;
+    width: 777px;
+}
+#Commoditydetails-3-2 img{
+    width: 100%;
 }
 #footer{
     width: 100%;
